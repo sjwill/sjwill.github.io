@@ -1,0 +1,58 @@
+*{
+  font-family: montserrat;
+  color: white;
+  text-align: center;
+  font-style: oblique
+}
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color:navy;
+}
+
+nav {
+  font-size: 20px;
+  background-color:navy;
+  padding: 10px;
+  margin: 10px;
+}
+
+li{
+  display:inline;
+  padding:15px;
+}
+
+section{
+  overflow: auto;
+  height: 100%;
+}
+
+main{
+ padding: 10px;
+ margin: 10px;
+}
+
+article{
+  background-color: navy;
+  color: navy;
+  padding: 10px;
+  margin: 10px;
+  width: 360px;
+  float: left;
+}
+
+footer{
+  background-color: #ffff66;
+  padding: 30px;
+  margin: 30px;
+}
+
+header{
+  text-align: center;
+}
+
+h1 {
+  color: #ffff66;
+  font-size: 70px;
+}
