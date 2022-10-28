@@ -2,7 +2,6 @@
   font-family: montserrat;
   color: white;
   text-align: center;
-  font-style: oblique
 }
 
 body {
@@ -55,4 +54,5 @@ header{
 h1 {
   color: #ffff66;
   font-size: 70px;
+  font-style: oblique
 }
